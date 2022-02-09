@@ -35,3 +35,4 @@ eureka:
    client:
       serviceUrl:
          defaultZone: http://localhost:9000/shopee-naming-server/eureka
+   instance.prefer-ip-address: true
